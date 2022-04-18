@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94e0bf53-eb2b-4418-91a5-079dc774b8e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ANALISIS FINAL TALLER 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Diagrama UML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Proyecto 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Taller 3 - Diseño Adelanto.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../link_project1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto1-entrega2-completa.drawio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto1-entrega2.drawio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../taller_2/Taller de analisis 2 - DPOO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../taller_3/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/Botones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/BotonesSuperior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/Informacion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/Interfaz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/TableroPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/interfaz/Top10Panel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/modelo/RegistroTop10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/modelo/Tablero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/modelo/Top10$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/bin/uniandes/dpoo/taller4/modelo/Top10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/data/luz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/data/top10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/lib/flatlaf-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/Botones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/BotonesSuperior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/Informacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/TableroPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/interfaz/Top10Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/modelo/RegistroTop10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/modelo/Tablero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/src/uniandes/dpoo/taller4/modelo/Top10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/bin/uniandes/dpoo/taller4/modelo/RegistroTop10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/bin/uniandes/dpoo/taller4/modelo/Tablero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/bin/uniandes/dpoo/taller4/modelo/Top10$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/bin/uniandes/dpoo/taller4/modelo/Top10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/data/luz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/data/top10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/lib/flatlaf-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/src/uniandes/dpoo/taller4/modelo/RegistroTop10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/src/uniandes/dpoo/taller4/modelo/Tablero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueletoV1/Taller4_LightsOut_esqueleto_inicial/src/uniandes/dpoo/taller4/modelo/Top10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Taller-1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Taller_1_Hamburguesas_esqueleto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller 0 - Olimpicos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Atleta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Atleta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Evento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Evento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Genero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Genero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Medalla.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Medalla.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Pais.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Pais.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Participacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Participacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modificacion/Modificacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/data/atletas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/data/atletas.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/docs/DiagramaClases.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/docs/DiagramaClases.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/docs/Taller0_umllet.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/docs/Taller0_umllet.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Atleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Evento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Genero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Genero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Medalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Medalla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Pais.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Pais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Participacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Participacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modificacion/Modificacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Taller4_LightsOut_esqueleto/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Atleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Genero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Medalla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Pais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/modelo/Participacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/bin/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/data/atletas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/docs/DiagramaClases.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/docs/Taller0_umllet.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/consola/ConsolaOlimpicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Atleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Evento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Genero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Medalla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Pais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/modelo/Participacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/CalculadoraEstadisticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/Taller0_Olimpicos/src/uniandes/dpoo/taller0/procesamiento/LoaderOlimpicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/__MACOSX/Taller0_Olimpicos/docs/._DiagramaClases.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/Taller0_Olimpicos_esqueleto/__MACOSX/Taller0_Olimpicos/docs/._Taller0_umllet.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab_0/link.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="27zNcuUyOddIKlc0FZxfcCkqvN7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ronald/OneDrive/Documentos/COLLEGE/#3_24/ISIS_1226/taller_4/Taller4_LightsOut_esqueleto_2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e0bf53-eb2b-4418-91a5-079dc774b8e1" name="Changes" comment="" />
+      <created>1650319040747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650319040747</updated>
+      <workItem from="1650319045228" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
